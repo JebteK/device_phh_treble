@@ -72,7 +72,7 @@ $apps_script
 $rom_script
 
 PRODUCT_NAME := $target
-PRODUCT_DEVICE := hosgsi_${arch}_$part
+PRODUCT_DEVICE := phhgsi_${arch}_$part
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := HollerdOS $apps_name
 
